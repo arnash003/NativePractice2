@@ -2,7 +2,7 @@ import { Text } from 'react-native'
 
 function GameOverScreen() {
     return <Text>
-        Game is Over
+        Game is Over!
     </Text>
 }
 
